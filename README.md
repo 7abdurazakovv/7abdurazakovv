@@ -2,7 +2,15 @@
 
 💻 Junior Developer from Uzbekistan  
 🚀 Passionate about programming and technology  
-📚 Currently learning JavaScript and Web Development  
+📚 Currently learning JavaScript and Web Development 
+
+---
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma" />
+  </a>
+</p>
 
 ---
 
