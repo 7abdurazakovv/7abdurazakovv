@@ -6,9 +6,11 @@
 
 ---
 
+🛠 My Skills
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma,instagram,windows,phyton" />
   </a>
 </p>
 
