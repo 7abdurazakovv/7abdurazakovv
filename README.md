@@ -1,16 +1,39 @@
-## Hi there 👋
+## # Hi there 👋, I'm Faridun Abdurazakov
 
-<!--
-**7abdurazakovv/7abdurazakovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Developer from Uzbekistan  
+🚀 Passionate about programming and technology  
+📚 Currently learning JavaScript and Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🌍 Location: Uzbekistan
+- 🎯 Goal: Become a strong Full-Stack Developer
+- ⚡ I love coding and learning new technologies
+- 🔥 Always improving my skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+- 💻 HTML, CSS, JavaScript
+- ⚙️ Git & GitHub
+- 🧠 Learning: React, Node.js
+
+---
+
+## 📈 GitHub Stats
+
+![Faridun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com
+- 📱 Telegram: @yourusername
+
+---
+
+⭐️ From Faridun Abdurazakov
