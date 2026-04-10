@@ -23,16 +23,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Faridun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
-- 📱 Telegram: @yourusername
+- 📧 Email: faridunabdurazakov0@gmail.com
+- 📱 Telegram: @Vs_Code_1
 
 ---
 
