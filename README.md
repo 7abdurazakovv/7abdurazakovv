@@ -1,4 +1,4 @@
-## # Hi there 👋, I'm Faridun Abdurazakov
+## Hi there 👋, I'm Faridun Abdurazakov
 
 💻 Junior Developer from Uzbekistan  
 🚀 Passionate about programming and technology  
