@@ -36,7 +36,8 @@
 ## 📫 Contact Me
 
 - 📧 Email: faridunabdurazakov0@gmail.com
-- 📱 Telegram: @Vs_Code_1
+- 📱 Telegram:
+-    @Vs_Code_1
 
 ---
 
