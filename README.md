@@ -37,7 +37,7 @@
 
 - 📧 Email: faridunabdurazakov0@gmail.com
 - 💬 **Telegram:**  
-  <a href="https://t.me/@Vs_Code_1">
+  <a href="https://t.me/@@Mr_Abdurazakov_dev">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
